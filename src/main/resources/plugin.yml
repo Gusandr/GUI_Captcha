@@ -1,0 +1,8 @@
+name: GUI_captcha
+version: '${project.version}'
+main: me.gus.gui_captcha.gui_captcha.GUI_captcha
+authors: [ Gus ]
+
+commands:
+  gcap:
+    description: Opens menu
